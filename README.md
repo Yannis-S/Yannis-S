@@ -3,7 +3,7 @@
 I have a passion for all things software development! I love learning new technologies and methodologies to help me solve problems as efficiently as possible. 
 I am interested in all aspects of development especially back-end, security and a little bit of interface design.
  
-My current technology stack consists of: JAVA / C# / PHP / MYSQL / HTML / CSS / BOOTSTRAP
+My current technology stack consists of: JAVA / C# / HTML / CSS / BOOTSTRAP / MYSQL / PHP
 
 [<img alt="javalogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]()
 [<img alt="csharplogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />]()
