@@ -1,4 +1,4 @@
-## Hello, my name is Yannis👋🏻
+## Hello, my name is Yannis!
 
 I have a passion for all things software development! I love learning new technologies and methodologies to help me solve problems as efficiently as possible. 
 I am interested in all aspects of development especially back-end, security and a little bit of interface design.
