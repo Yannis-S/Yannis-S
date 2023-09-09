@@ -1,14 +1,15 @@
-## Hello, my name is Yannis!
+## Hello there, I'm Yannis.
 
-I have a passion for all things software development! I love learning new technologies and methodologies to help me solve problems as efficiently as possible. 
-I am interested in all aspects of development especially back-end, security and a little bit of interface design.
+| About Me |
+|:---|
+| I am a software developer based in Perth, WA. I am interested in all aspects of software development, but especially back-end programming. I love learning new technologies and techniques to help me solve problems as efficiently as possible. |
+| 💻 I am currently working as a **Freelance Web Developer**. <br> 📚 I am currently studying a **Diploma of Information Technology (Advanced Programming)**. |
+
+
+
+
  
-My current technology stack consists of: JAVA / C# / HTML / CSS / BOOTSTRAP / MYSQL / PHP
-
-[<img alt="javalogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />]()
-[<img alt="csharplogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />]()
-[<img alt="htmllogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />]()
-[<img alt="csslogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />]()
-[<img alt="bslogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />]()
-[<img alt="mysqllogo" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />]()
-[<img alt="phplogo" height="55px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />]()
+| | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Language** | Java | Python | PHP | Laravel | MySQL | Tailwind | Bootstrap | HTML | CSS |
+| **Skill Level** | 7/10 | 7/10 | 6/10 | 5/10 | 6/10 | 8/10 | 6/10 | 9/10 | 5/10 |
